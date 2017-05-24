@@ -1,4 +1,4 @@
-this is for rsmote  to local repos
+this is for remote  to local repository 
 first change to add to staging devops training 
 second change pulling to remote server from local
 third change for pulling from remote server
