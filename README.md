@@ -1,6 +1,7 @@
 today chnages from remote ot local repsitory
 push rejected confllict
 # devops-training ## 
-merge conflict
+merge conflict done  in same line 
+
 
 
