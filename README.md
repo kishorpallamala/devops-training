@@ -1,6 +1,6 @@
 # devops-training ## 
 chnages...
-changes
+changes.......this is from remote to check fetch with merge tool
 
 
 
