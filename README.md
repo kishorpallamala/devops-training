@@ -1,6 +1,6 @@
 # devops-training ## 
 chnages...
-changes
+changes...this is from local rep to check fetch with mergetool
 
 
 
