@@ -1,6 +1,6 @@
 # devops-training ## 
 brach practise
-chnages from remote rep
+chnages from remote with fetch option
 
 
 
