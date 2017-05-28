@@ -1,9 +1,13 @@
+fetch & mergetool
+fetch with merge tool
 # devops-training ## 
-<<<<<<< HEAD
-changes
-=======
 chnages...
->>>>>>> refs/remotes/origin/master
+changes...this is from local rep to check fetch with mergetool
+<<<<<<< HEAD
+Some change in local  rep...
+=======
+Some change in remote rep
+>>>>>>> e6468f70572398ff7c9be3ae6eabd5d908f6c3ac
 
 
 
