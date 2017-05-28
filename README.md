@@ -1,5 +1,5 @@
 # devops-training ## 
-kjdkjfiijbjhi
+mergetool with fetch conflicts
 push conflicts from remote rep 
 
 
