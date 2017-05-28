@@ -1,13 +1,12 @@
-fetch & mergetool
-fetch with merge tool
-# devops-training ## 
-chnages...
-changes...this is from local rep to check fetch with mergetool
 <<<<<<< HEAD
-Some change in local  rep...
+# devops-training ## 
+mergetool with fetch conflicts
 =======
-Some change in remote rep
->>>>>>> e6468f70572398ff7c9be3ae6eabd5d908f6c3ac
+# devops-training ##
+fetch with merge tool
+>>>>>>> refs/remotes/origin/master
+push conflicts from remote rep 
+
 
 
 
