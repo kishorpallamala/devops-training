@@ -9,10 +9,10 @@ push rejected confllict
 brach practise
 =================================
 this cchanges made by brach1
-
+<<<<<<< HEAD
 =======
 this changes by brach2
-
+>>>>>>> branch2
 
 
 
